@@ -1,1 +1,1 @@
-{"host_filmes":"http://smartflix.xyz/movies/","host_series":"http://smartflix.xyz/tvshows/","referer":"http://smartflix.xyz"}
+{"host_filmes":"http://smartflix.xyz/movies/","host_series":"http://smartflix.xyz/tvshows/","referer":"http://smartflix.xyz","ref1":"'metaframe rptss' src='(.*?)'","ref2":"<a href=\"(.*?)\""}
