@@ -1,1 +1,17 @@
-{"host_filmes":"http://smartflix.xyz/movies/","host_series":"http://smartflix.xyz/tvshows/","referer":"http://smartflix.xyz","ref1":"'metaframe rptss' src='(.*?)'","ref2":"<a href=\"(.*?)\""}
+{
+  "host_filmes": "http://smartflix.xyz/movies/",
+  "host_series": "http://smartflix.xyz/tvshows/",
+  "referer": "http://smartflix.xyz",
+  "ref1": "'metaframe rptss' src='(.*?)'",
+  "ref2": "<a href=\"(.*?)\"",
+  
+  "ads":0,
+  "banner_admob":"ca-app-pub-2687233810319887/5349985987",
+  "intersticio_admob":"ca-app-pub-2687233810319887/1936305805",
+  
+  "banner_unity":"",
+  "intersticio_unity":"",
+  
+  "banner_applovin":"",
+  "intersticio_applovin":""
+}
