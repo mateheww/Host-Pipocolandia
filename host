@@ -1,7 +1,7 @@
 {
-  "host_filmes": "http://smartflix.xyz/movies/",
-  "host_series": "http://smartflix.xyz/episodes/",
-  "referer": "http://smartflix.xyz",
+  "host_filmes": "http://smartflixv2.smartflix.xyz/movies/",
+  "host_series": "http://smartflixv2.smartflix.xyz/episodes/",
+  "referer": "http://smartflixv2.smartflix.xyz",
   "ref1": "'metaframe rptss' src='(.*?)'",
   "ref2": "<a href=\"(.*?)\"",
   
