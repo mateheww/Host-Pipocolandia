@@ -15,7 +15,7 @@
     "message": "Estamos recomeçando do zero, e precisamos da sua ajuda, solicite filmes e séries através do menu lateral. Juntos somos mais fortes.",
     "title": "AVISO",
     "button": "OK",
-    "url": "https://",
+    "url": "https://stackoverflow.com/questions/3004515/sending-an-intent-to-browser-to-open-specific-url",
     "type": 3,
     "id": 1,
     "intent": true
