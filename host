@@ -17,6 +17,7 @@
     "button": "OK",
     "url": "https://",
     "type": 3,
-    "id": 1
+    "id": 1,
+    "intent": true
   }
 }
