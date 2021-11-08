@@ -17,7 +17,7 @@
     "button": "OK",
     "url": "https://stackoverflow.com/questions/3004515/sending-an-intent-to-browser-to-open-specific-url",
     "type": 3,
-    "id": 0,
-    "intent": true
+    "id": 1,
+    "intent": false
   }
 }
