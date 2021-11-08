@@ -4,14 +4,19 @@
   "referer": "http://smartflixv2.smartflix.xyz",
   "ref1": "'metaframe rptss' src='(.*?)'",
   "ref2": "<a href=\"(.*?)\"",
-  
-  "ads":0,
-  "banner_admob":"ca-app-pub-2687233810319887/5349985987",
-  "intersticio_admob":"ca-app-pub-3940256099942544/1033173712",
-  
-  "banner_unity":"",
-  "intersticio_unity":"",
-  
-  "banner_applovin":"",
-  "intersticio_applovin":""
+  "ads": 0,
+  "banner_admob": "ca-app-pub-2687233810319887/5349985987",
+  "intersticio_admob": "ca-app-pub-3940256099942544/1033173712",
+  "banner_unity": "",
+  "intersticio_unity": "",
+  "banner_applovin": "",
+  "intersticio_applovin": "",
+  "message": {
+    "message": "Estamos recomeçando do zero, e precisamos da sua ajuda, solicite filmes e séries através do menu lateral. Juntos somos mais fortes.",
+    "title": "AVISO",
+    "button": "OK",
+    "url": "https://",
+    "type": 3,
+    "id": 1
+  }
 }
